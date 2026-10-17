@@ -1,4 +1,4 @@
-<img width="644" height="497" alt="image" src="https://github.com/user-attachments/assets/745df989-e7d6-44b1-8eaa-e87e41ccb4fe" />
+<img width="322" alt="image" src="https://github.com/user-attachments/assets/745df989-e7d6-44b1-8eaa-e87e41ccb4fe" />
 
 The initial dataset should be placed in the data folder. The datasets are obtained as follows:
 
