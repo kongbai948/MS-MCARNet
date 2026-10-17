@@ -1,3 +1,5 @@
+<img width="644" height="497" alt="image" src="https://github.com/user-attachments/assets/745df989-e7d6-44b1-8eaa-e87e41ccb4fe" />
+
 The initial dataset should be placed in the data folder. The datasets are obtained as follows:
 
 DEAP（A Database for Emotion Analysis using Physiological Signals，Queen Mary University of London）
@@ -14,3 +16,5 @@ h5py 3.8.0
 Matplotlib 3.7.5
 
 Run"feature_1D.py"
+
+The data_raw_1s_DEAP folder contains example preprocessed DEAP arousal data (1-second segments).
